@@ -1,0 +1,80 @@
+{
+ "name": "Alma de Porcelana",
+ "tagline": "Pequeñas piezas, grandes detalles.",
+ "description": "Creaciones en porcelana fría hechas a mano, para regalar, celebrar y guardar momentos bonitos.",
+ "whatsapp": "",
+ "currency": "USD",
+ "leadTime": "Consulta disponibilidad y tiempos de elaboración al enviar tu pedido.",
+ "products": [
+  {
+   "id": "fresa",
+   "name": "Fresa con flores",
+   "category": "Detalles para regalar",
+   "price": 8,
+   "description": "Un pequeño detalle lleno de color. Modelado artesanal en porcelana fría.",
+   "variants": [
+    "Rosa",
+    "Rojo"
+   ],
+   "image": "assets/fresa.jpg"
+  },
+  {
+   "id": "casita",
+   "name": "Casita del bosque",
+   "category": "Decoración",
+   "price": 15,
+   "description": "Una casita de cuento para dar un toque especial a tu rincón favorito.",
+   "variants": [
+    "Como en la foto"
+   ],
+   "image": "assets/casita.jpg"
+  },
+  {
+   "id": "arcoiris",
+   "name": "Arcoíris de colores",
+   "category": "Celebraciones",
+   "price": 12,
+   "description": "Colores delicados y flores para acompañar una celebración especial.",
+   "variants": [
+    "Paleta de la foto",
+    "Colores a consultar"
+   ],
+   "image": "assets/arcoiris.jpg"
+  },
+  {
+   "id": "bailarina",
+   "name": "Pequeña bailarina",
+   "category": "Celebraciones",
+   "price": 18,
+   "description": "Una figura delicada, con detalles modelados a mano.",
+   "variants": [
+    "Vestido rosa",
+    "Otro color a consultar"
+   ],
+   "image": "assets/bailarina.jpg"
+  },
+  {
+   "id": "koala",
+   "name": "Koala con corazón",
+   "category": "Detalles para regalar",
+   "price": 10,
+   "description": "Un compañero tierno para regalar a alguien especial.",
+   "variants": [
+    "Como en la foto"
+   ],
+   "image": "assets/koala.jpg"
+  },
+  {
+   "id": "hortensias",
+   "name": "Hortensias en maceta",
+   "category": "Decoración",
+   "price": 16,
+   "description": "Flores que acompañan tus espacios con color y delicadeza.",
+   "variants": [
+    "Azul y lila"
+   ],
+   "image": "assets/hortensias.jpg"
+  }
+ ],
+ "demo": true
+}
