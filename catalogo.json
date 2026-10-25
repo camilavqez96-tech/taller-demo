@@ -8,13 +8,13 @@
  "products": [
   {
    "id": "fresa",
-   "name": "Fresa con flores",
+   "name": "Fresa sonriente",
    "category": "Detalles para regalar",
    "price": 8,
    "description": "Un pequeño detalle lleno de color. Modelado artesanal en porcelana fría.",
    "variants": [
-    "Rosa",
-    "Rojo"
+    "Rojo",
+    "Rosa"
    ],
    "image": "assets/fresa.jpg"
   },
@@ -55,7 +55,7 @@
   },
   {
    "id": "koala",
-   "name": "Koala con corazón",
+   "name": "Koala con bufanda",
    "category": "Detalles para regalar",
    "price": 10,
    "description": "Un compañero tierno para regalar a alguien especial.",
